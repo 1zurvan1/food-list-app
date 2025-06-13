@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Yekan";
+    src: url(./BYekan/BYekan+.ttf);
+    font-weight:600;
+}
+@font-face {
+    font-family: "Yekan-bold";
+    src: url(./BYekan/BYekan+Bold.ttf);
+    font-weight: bold;
+}
